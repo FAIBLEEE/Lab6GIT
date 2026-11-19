@@ -2,7 +2,7 @@
 #include "Figure.h"
 #include "Triangle.h"
 #include "Rect.h"
-
+//Класс сложной фигуры
 class ComplexFigure : public Figure {
 public:
     ComplexFigure(int x, int y, int triangleSide, COLORREF triangleBg, COLORREF triangleBorder, COLORREF rectBg, COLORREF rectBorder);

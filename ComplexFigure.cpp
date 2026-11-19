@@ -1,3 +1,5 @@
+
+//Реализация
 #include "ComplexFigure.h"
 
 ComplexFigure::ComplexFigure(int x, int y, int triangleSide,

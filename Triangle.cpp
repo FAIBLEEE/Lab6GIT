@@ -1,4 +1,5 @@
 #include "Triangle.h"
+//Реализация класса треугольника
 
 Triangle::Triangle(int x, int y, int s, COLORREF bg, COLORREF border)
     : Figure(x, y, bg, border), side(s) {

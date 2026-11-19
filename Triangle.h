@@ -1,7 +1,7 @@
 #pragma once
 #include "Figure.h"
 #include <cmath>
-
+//Класс треугольник
 class Triangle : public Figure {
 public:
     Triangle(int x, int y, int side, COLORREF bg, COLORREF border);

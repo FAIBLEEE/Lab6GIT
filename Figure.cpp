@@ -1,3 +1,4 @@
+//Реализация базовой фигуры
 #include "Figure.h"
 
 Figure::Figure() : position{ 0, 0 }, bgColor(RGB(240, 240, 240)), borderColor(RGB(240, 240, 240)) {

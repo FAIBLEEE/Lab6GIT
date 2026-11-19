@@ -1,5 +1,6 @@
 #include "Rect.h"
 #include "string"
+//Реализация класса квадрат
 
 Rect::Rect(int x, int y, int w, int h, COLORREF bg, COLORREF border) : Figure(x, y, bg, border), width(w), height(h) {
     if (w <= 0 || h <= 0) {

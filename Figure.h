@@ -4,7 +4,7 @@
 #include <windows.h>
 #include <stdexcept>
 #include <memory>
-
+//Базовый класс фигуры
 class Figure {
 public:
     Figure();

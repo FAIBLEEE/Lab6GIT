@@ -1,7 +1,7 @@
 #include "FigureQueue.h"
 #include <windows.h>
 #include <stdexcept>
-
+//–еализаци€€ класса очередь
 FigureQueue::FigureQueue() {
 }
 

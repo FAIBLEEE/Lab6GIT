@@ -3,7 +3,7 @@
 #include <memory>
 #include <initializer_list>
 #include "Figure.h"
-//Класс очереди
+//Класс очереди АМир сделал
 class FigureQueue {
 public:
     FigureQueue();
